@@ -1,0 +1,5 @@
+CLASS zbp_i_lucy_booking DEFINITION PUBLIC ABSTRACT FINAL FOR BEHAVIOR OF zi_lucy_travel.
+ENDCLASS.
+
+CLASS zbp_i_lucy_booking IMPLEMENTATION.
+ENDCLASS.
